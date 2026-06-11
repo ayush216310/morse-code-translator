@@ -1,4 +1,5 @@
 A basic GUI which helps convert morse-code to string and string to morse-code. Select out of the two options to perform the translation.
+
 Instructions:
 1. Only the input window will be open, the other window will be locked.
 2. To input morse-code, use the spacebar, shift and enter button.
